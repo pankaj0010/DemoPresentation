@@ -19,4 +19,9 @@ class TestOperations {
 		assertEquals(expected, 3);
 	}
 
+	void testMultiply() {
+		int expected = subtract(a,b);
+		assertEquals(expected, 10);
+	}
+
 }
